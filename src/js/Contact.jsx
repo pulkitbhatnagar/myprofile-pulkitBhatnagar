@@ -4,6 +4,10 @@ import './Contact.css';
 
 import TabSection from './TabSection';
 
+import map from '../Images/map.png';
+import phone from '../Images/phone.png';
+import email from '../Images/email.png';
+
 import Card from 'react-bootstrap/Card';
 import Button from 'react-bootstrap/Button';
 
@@ -49,7 +53,7 @@ function Contact() {
                         <Card.Body>
                             <Card.Text>
                                 <img
-                                    src="/Images/map.png"
+                                    src={map}
                                     alt="map"
                                     className="map-png"
                                 ></img>
@@ -58,7 +62,7 @@ function Contact() {
                             </Card.Text>
                             <Card.Text>
                                 <img
-                                    src="/Images/phone.png"
+                                    src={phone}
                                     alt="map"
                                     className="map-png"
                                 ></img>
@@ -66,7 +70,7 @@ function Contact() {
                             </Card.Text>
                             <Card.Text>
                                 <img
-                                    src="/Images/email.png"
+                                    src={email}
                                     alt="map"
                                     className="map-png"
                                 ></img>

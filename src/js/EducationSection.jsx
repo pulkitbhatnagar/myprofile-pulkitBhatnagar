@@ -4,6 +4,9 @@ import { ChevronsRight, ChevronsLeft } from 'react-feather';
 import { Button } from 'react-bootstrap';
 import './EducationSection.css';
 
+import college from '../Images/college.mp4';
+import school from '../Images/school.jpg';
+
 import TabSection from './TabSection';
 
 export default function EducationSection() {
@@ -33,13 +36,13 @@ export default function EducationSection() {
                     {slide % 2 == 0 ? (
                         <video
                             controls
-                            src="/Images/college.mp4"
+                            src={college}
                             loop
                             className="college-video"
                         />
                     ) : (
                         <img
-                            src="/Images/school.jpg"
+                            src={school}
                             alt="school"
                             className="school-image"
                         />

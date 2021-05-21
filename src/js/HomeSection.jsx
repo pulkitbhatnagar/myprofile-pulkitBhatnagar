@@ -2,6 +2,9 @@ import React from 'react';
 import Typical from 'react-typical';
 //adding file
 import TabSection from '../js/TabSection';
+
+import intoVideo from '../Images/Night2.mp4';
+
 import './Homesection.css';
 function HomeSection() {
     return (
@@ -11,7 +14,7 @@ function HomeSection() {
             </div>
             <div className="body-section">
                 <video
-                    src="/Images/Night2.mp4"
+                    src={intoVideo}
                     autoPlay
                     loop
                     muted

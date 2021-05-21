@@ -6,6 +6,13 @@ import { useHistory } from 'react-router-dom';
 
 import TabSection from './TabSection';
 
+import blindStick from '../Images/BlindStick.jpg';
+import dustbin from '../Images/dustbin.jpg';
+import alzimer from '../Images/Alzimer.png';
+import dart from '../Images/Dart.png';
+import marvel from '../Images/marvel.png';
+import met from '../Images/Met.png';
+
 import { Carousel, Button } from 'react-bootstrap';
 
 function ProjectWork() {
@@ -66,53 +73,41 @@ function ProjectWork() {
             <Carousel activeIndex={index} onSelect={handleSelect}>
                 <Carousel.Item>
                     <img
-                        src="/Images/BlindStick.jpg"
+                        src={blindStick}
                         className="video-section"
                         alt="project1"
                     />
                 </Carousel.Item>
                 <Carousel.Item>
                     <img
-                        src="/Images/dustbin.jpg"
+                        src={dustbin}
                         className="video-section"
                         alt="project1"
                     />
                 </Carousel.Item>
                 <Carousel.Item>
                     <img
-                        src="/Images/Alzimer.png"
+                        src={alzimer}
                         className="video-section"
                         alt="project1"
                     />
                 </Carousel.Item>
                 <Carousel.Item>
-                    <img
-                        src="/Images/Dart.png"
-                        className="video-section"
-                        alt="project1"
-                    />
+                    <img src={dart} className="video-section" alt="project1" />
                 </Carousel.Item>
                 <Carousel.Item>
-                    <img
-                        src="/Images/Dart.png"
-                        className="video-section"
-                        alt="project1"
-                    />
+                    <img src={dart} className="video-section" alt="project1" />
                 </Carousel.Item>
 
                 <Carousel.Item>
                     <img
-                        src="/Images/marvel.png"
+                        src={marvel}
                         className="video-section"
                         alt="project1"
                     />
                 </Carousel.Item>
                 <Carousel.Item>
-                    <img
-                        src="/Images/Met.png"
-                        className="video-section"
-                        alt="project1"
-                    />
+                    <img src={met} className="video-section" alt="project1" />
                 </Carousel.Item>
             </Carousel>
         );

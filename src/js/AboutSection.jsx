@@ -2,6 +2,7 @@ import React from 'react';
 
 import TabSection from './TabSection';
 import Badge from 'react-bootstrap/Badge';
+import image from '../Images/myImage2.jpg';
 //importing css
 import './AboutSection.css';
 export default function AboutSection() {
@@ -62,11 +63,7 @@ export default function AboutSection() {
                 </div>
 
                 <div className="myimage">
-                    <img
-                        src="/Images/myImage2.jpg"
-                        alt="Logo"
-                        className="my-image"
-                    />
+                    <img src={image} alt="Logo" className="my-image" />
                 </div>
             </div>
         </div>
