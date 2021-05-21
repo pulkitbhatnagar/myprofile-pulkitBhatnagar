@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/myprofile-pulkitBhatnagar/static/css/main.3753d5ac.chunk.css",
+    "main.js": "/myprofile-pulkitBhatnagar/static/js/main.38b919a9.chunk.js",
+    "main.js.map": "/myprofile-pulkitBhatnagar/static/js/main.38b919a9.chunk.js.map",
+    "runtime-main.js": "/myprofile-pulkitBhatnagar/static/js/runtime-main.b59536b6.js",
+    "runtime-main.js.map": "/myprofile-pulkitBhatnagar/static/js/runtime-main.b59536b6.js.map",
+    "static/css/2.489a6532.chunk.css": "/myprofile-pulkitBhatnagar/static/css/2.489a6532.chunk.css",
+    "static/js/2.a23c08b5.chunk.js": "/myprofile-pulkitBhatnagar/static/js/2.a23c08b5.chunk.js",
+    "static/js/2.a23c08b5.chunk.js.map": "/myprofile-pulkitBhatnagar/static/js/2.a23c08b5.chunk.js.map",
+    "static/js/3.17a1bc7c.chunk.js": "/myprofile-pulkitBhatnagar/static/js/3.17a1bc7c.chunk.js",
+    "static/js/3.17a1bc7c.chunk.js.map": "/myprofile-pulkitBhatnagar/static/js/3.17a1bc7c.chunk.js.map",
+    "index.html": "/myprofile-pulkitBhatnagar/index.html",
+    "static/css/2.489a6532.chunk.css.map": "/myprofile-pulkitBhatnagar/static/css/2.489a6532.chunk.css.map",
+    "static/css/main.3753d5ac.chunk.css.map": "/myprofile-pulkitBhatnagar/static/css/main.3753d5ac.chunk.css.map",
+    "static/js/2.a23c08b5.chunk.js.LICENSE.txt": "/myprofile-pulkitBhatnagar/static/js/2.a23c08b5.chunk.js.LICENSE.txt",
+    "static/media/Alzimer.5b0c6e8e.png": "/myprofile-pulkitBhatnagar/static/media/Alzimer.5b0c6e8e.png",
+    "static/media/BlindStick.8366a39d.jpg": "/myprofile-pulkitBhatnagar/static/media/BlindStick.8366a39d.jpg",
+    "static/media/Dart.90785973.png": "/myprofile-pulkitBhatnagar/static/media/Dart.90785973.png",
+    "static/media/Met.7b3a29ca.png": "/myprofile-pulkitBhatnagar/static/media/Met.7b3a29ca.png",
+    "static/media/Night2.07d40f53.mp4": "/myprofile-pulkitBhatnagar/static/media/Night2.07d40f53.mp4",
+    "static/media/college.38b45e8e.mp4": "/myprofile-pulkitBhatnagar/static/media/college.38b45e8e.mp4",
+    "static/media/dustbin.33c22e61.jpg": "/myprofile-pulkitBhatnagar/static/media/dustbin.33c22e61.jpg",
+    "static/media/map.73948584.png": "/myprofile-pulkitBhatnagar/static/media/map.73948584.png",
+    "static/media/marvel.49dff658.png": "/myprofile-pulkitBhatnagar/static/media/marvel.49dff658.png",
+    "static/media/myImage2.f305ace7.jpg": "/myprofile-pulkitBhatnagar/static/media/myImage2.f305ace7.jpg",
+    "static/media/ncrlogo.30a659d4.png": "/myprofile-pulkitBhatnagar/static/media/ncrlogo.30a659d4.png",
+    "static/media/school.6033ab5a.jpg": "/myprofile-pulkitBhatnagar/static/media/school.6033ab5a.jpg",
+    "static/media/start.15a5fb05.png": "/myprofile-pulkitBhatnagar/static/media/start.15a5fb05.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b59536b6.js",
+    "static/css/2.489a6532.chunk.css",
+    "static/js/2.a23c08b5.chunk.js",
+    "static/css/main.3753d5ac.chunk.css",
+    "static/js/main.38b919a9.chunk.js"
+  ]
+}
