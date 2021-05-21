@@ -17,7 +17,7 @@ export default function App() {
                 <Route path="/exp" component={Experience} />
                 <Route path="/pro" component={ProjectWork} />
                 <Route path="/con" component={Contact} />
-                <Redirect to="/" />
+                <Redirect to="#/" />
             </Switch>
         </div>
     );
